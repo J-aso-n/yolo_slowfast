@@ -1,0 +1,13 @@
+numpy==2.2.4
+torch==2.6.0 
+torchvision==0.21.0
+simplejson==3.20.1
+psutil==7.0.0
+opencv-python==4.11.0.86
+tensorboard==2.19.0 
+moviepy==2.1.2
+pytorchvideo==0.1.5
+cython==3.0.12
+cached_property==2.0.1
+scikit-learn==1.6.1 
+ultralytics==8.3.74
