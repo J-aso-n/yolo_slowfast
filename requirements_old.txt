@@ -1,8 +1,0 @@
-ultralytics==8.3.74
-openai-clip==1.0.1
-torchreid==0.2.5
-gdown==5.2.0
-numba==0.61.0
-filterpy==1.4.5
-
-pytorchvideo==0.1.5
