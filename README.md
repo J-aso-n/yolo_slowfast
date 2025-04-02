@@ -14,6 +14,14 @@ My python version is 3.12
 
 we use the official version of SlowFast, so we have to make the environment of SlowFast first, but follow  the following instructions is OK.
 
+first we download the official SlowFast from (Thanks to reference No.2)
+
+```
+git clone https://gitee.com/qiang_sun/SlowFast.git
+```
+
+then
+
 ```
 pip install -r requirements.txt
 pip install 'git+https://github.com/facebookresearch/fvcore'
@@ -43,3 +51,4 @@ Let's START!
 
 SlowFast：https://github.com/facebookresearch/SlowFast/tree/main
 
+SlowFast的辛酸复现过程：https://blog.csdn.net/normal_lk/article/details/126138119
