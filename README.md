@@ -12,7 +12,7 @@ My python version is 3.12
 
 we use the official version of SlowFast, so we have to set up the environment of SlowFast first, but follow my following instructions is OK.
 
-1, first we download the official SlowFast from (Thanks to reference No.2)
+1, first we download the official SlowFast from (Thanks to [reference No.2](https://gitee.com/qiang_sun/SlowFast.git))
 
 ```
 cd yolo_slowfast
